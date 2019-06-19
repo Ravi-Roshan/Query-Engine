@@ -1,0 +1,4 @@
+115, Kiran, 43, Hyderabad, 23000, 10
+115, Mohan, 31, Chennai, 21000, 20
+115, John, 53, Hyderabad, 43000, 10
+115, ravi, 51, mumbai, 15, 20
